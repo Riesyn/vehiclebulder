@@ -28,4 +28,4 @@ Uses Inquirer, NPM commands, TS, gitignore, and a functional interactive command
 Please refer to installing package documentation via w3Schools. You will want to run NPM commands preferably with a DEV lock. The ideal way to contribute is to make a pull request inside of the github repo and wait for approval.
 
 ## Tests
-Please refer to the following link for a video test of the application and how to use it.
+Please refer to the following link for a video test of the application and how to use it. https://drive.google.com/drive/folders/1wmwb_SlhfBUpTSRdDxwO4YLOv83rFDAf?usp=sharing
